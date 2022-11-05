@@ -1,7 +1,7 @@
 I have also freeCodeCamp.org stuff in [codePen](https://codepen.io/JeremiasRy)! <br/>
 They are pretty rough, I have been more invested in getting things to work.
 
-<br/><br/>I'm currently working on to better my artistic eye in design.
+<br/>I'm currently working on to better my artistic eye in design.
 
 <!--
 **JeremiasRy/JeremiasRy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
