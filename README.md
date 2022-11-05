@@ -1,5 +1,4 @@
-I also have freeCodeCamp.org stuff in [codePen](https://codepen.io/JeremiasRy)! <br/>
-They are pretty rough, I have been more invested in getting things to work.
+Check my [freeCodeCamp](https://www.freecodecamp.org/JeremiasRy) certifications
 
 <br/>I'm currently working on to better my artistic eye in design.
 
