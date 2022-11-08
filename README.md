@@ -1,6 +1,6 @@
 
 
-<br/>I'm currently working on to better my artistic eye in design.
+<br/>I'm currently working on to better my artistic eye in design. <br/>
 [freeCodeCamp](https://www.freecodecamp.org/JeremiasRy)
 
 <!--
