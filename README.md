@@ -1,6 +1,7 @@
-Here are my [freeCodeCamp](https://www.freecodecamp.org/JeremiasRy) certifications
+
 
 <br/>I'm currently working on to better my artistic eye in design.
+[freeCodeCamp](https://www.freecodecamp.org/JeremiasRy)
 
 <!--
 **JeremiasRy/JeremiasRy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
